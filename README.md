@@ -51,19 +51,20 @@ The four plots that you will need to construct are shown below.
 
 Plot 1
 
-ExDataCP1Plot1.png
+![plot of ExDataCP1Plot1.png](slike/ExDataCP1Plot1.png) 
+
 
 Plot 2
 
-ExDataCP1Plot2.png
+![plot of ExDataCP1Plot2.png](slike/ExDataCP1Plot2.png) 
 
 Plot 3
 
-ExDataCP1Plot3.png
+![plot of ExDataCP1Plot3.png](slike/ExDataCP1Plot3.png) 
 
 Plot 4
 
-ExDataCP1Plot4.png
+![plot of ExDataCP1Plot4.png](slike/ExDataCP1Plot4.png) 
 
 Reviewing the Assignments
 
